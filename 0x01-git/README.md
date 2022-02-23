@@ -1,1 +1,1 @@
-Update ReadMe Directlry From github
+Update ReadMe Directly From github
